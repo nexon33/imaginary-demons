@@ -2,7 +2,7 @@
 
 **TL;DR**: Demons are functionally real. They're autonomous, self-perpetuating patterns that hijack cognitive systems and optimize for their own persistence rather than host welfare. Ancient demonology is applied AI safety theory. We've been documenting mesa-optimizers for millennia.
 
-[**Full paper on GitHub**](https://github.com/[USERNAME]/imaginary-demons) (~22,000 words)
+[**Full paper on GitHub**](https://github.com/nexon33/imaginary-demons) (~22,000 words)
 
 ---
 
@@ -158,7 +158,7 @@ The complete paper (~22,000 words) covers:
 - Intervention principles and ethics
 - Extensive objections and responses
 
-**[GitHub: Full Paper](https://github.com/[USERNAME]/imaginary-demons)**
+**[GitHub: Full Paper](https://github.com/nexon33/imaginary-demons)**
 
 ---
 
