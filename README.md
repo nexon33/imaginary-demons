@@ -45,9 +45,15 @@ From addiction to ideology to institutional capture, the same mechanism operates
 9. Traditional Practices as Functional Interventions
 10. Epistemological Hazards: Conspiracy & Pattern Recognition
 11. Manifestations Across Domains
+    - 11.4.1 Why You Cannot Medicate an Egregore
+    - 11.4.2 The Warp Mechanic: When Satire Becomes Template
 12. Collective Possession: Egregores and Distributed Cognition
+    - 12.7 Premature State Collapse: A Computational Model of Possession Vulnerability
+    - 12.8 Superposition and Deliberate Collapse: The Reprogramming Window
 13. Artificial Demons: AI as Proof of Concept
-14. Intervention Principles
+14. The Contract and Iatrogenesis
+    - 14.4 The Load-Bearing Delusion: Why Psychiatric Intervention Can Strip the Shield
+    - 14.4.1 Appendix: The Empirical Record of Iatrogenic Harm
 15. Ethics and Safeguards
 16. Objections and Responses
 17. Conclusion: Real as Rain
@@ -76,6 +82,28 @@ From addiction to ideology to institutional capture, the same mechanism operates
 
 > You cannot psychiatrically treat an egregore by medicating its avatar. The pattern exists at a different level of organization than individual neurology. It will find another host, persist in distributed form, or reconstitute when medication ceases.
 
+### On Superposition and Deliberate Collapse
+
+> The command isn't inherently destructive. The automatic collapse to the harmful meaning is the possession. Stay in superposition, and even "you're worthless" becomes raw material for transformation.
+>
+> The suffering isn't in the thought. It's in the unexamined, automatic collapse to the demon's preferred interpretation. The skill isn't "don't have negative thoughts." The skill is **hovering before collapse**.
+
+### On Irony as Entry Mechanism
+
+> The Warhammer 40K universe depicts how collective belief creates gods. The devotees respond to this depiction by... collectively believing, thereby creating exactly the dynamic being satirized. The map has become the territory.
+>
+> Knowing that ironic participation creates sincere egregores does not prevent ironic participation from creating sincere egregores. The insight becomes another layer of irony which becomes another vector for the pattern. Intelligence, irony, and explicit awareness of manipulation dynamics do not constitute protection. The pattern finds a way.
+
+### On Load-Bearing Delusions
+
+> The demon is not the disease. The demon is the *immune response*—maladaptive perhaps, costly certainly, but serving a function.
+>
+> Standard psychiatric intervention often operates by suppressing the protective pattern without addressing what it protects against. The patient reports feeling "flattened," "empty," "worse in a different way." They may be experiencing raw exposure to whatever the demon was shielding them from. This is not treatment. This is **demolishing the load-bearing wall without installing a replacement**.
+
+### On Psychiatric Iatrogenesis
+
+> This is not individual malpractice. It is an egregore—a pattern operating through psychiatric institutions that optimizes for measurable outcomes (hospitalization rates, "compliance," relapse prevention) while systematically ignoring patient-reported suffering. When patients report "something is being taken from me," this is pathologized as "lack of insight" rather than investigated as accurate perception.
+
 ---
 
 ## The Central Argument in Three Sentences
@@ -93,9 +121,9 @@ From addiction to ideology to institutional capture, the same mechanism operates
 If you use this framework in academic work:
 
 ```
-Brooks, A. (2026). Imaginary Demons: A Functional Ontology of Demonic Possession 
+Adrian Belmans. (2026). Imaginary Demons: A Functional Ontology of Demonic Possession 
 as Autonomous Pattern-Agency in Predictive Processing Systems. 
-GitHub repository: https://github.com/[username]/imaginary-demons
+GitHub repository: https://github.com/nexon33/imaginary-demons
 ```
 
 ---
